@@ -1,15 +1,20 @@
 <a href="https://www.linkedin.com/in/aleksa-mikic-159100205/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/988gbb#2782" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+<a href="mailto:988gbb@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
 
 
 
-# Hey guys! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hey guys! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> 
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-My name is Aleksa Mikic, I'm young and aspiring Software Developer.
-I'm currently based in Amsterdam, the Netherlands. And have really strong passion for codding and huge desire towards further developing my skill set and knowledge.
+My name is Aleksa Mikic, I'm young and aspiring Software Developer.<br>
+
+Strong passion for codding and a huge desire towards further developing my skill set and knowledge.<br>
+
+I'm currently based in Amsterdam, the Netherland. <br>
+
+
 
 
 ## 🛠️ Languages and Tools
