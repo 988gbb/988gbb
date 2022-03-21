@@ -14,6 +14,21 @@ Strong passion for codding and a huge desire towards further developing my skill
 
 I'm currently based in Amsterdam, the Netherland. <br>
 
+## 🚀 Projects
+
+### [TinderDog](https://github.com/988gbb/TinderDog)
+Fully responsive website build with bootstrap.
+
+
+### [Eco-Logical](https://github.com/Opunho/ECO-Logical)
+
+Eco-logical is a beta mobile website that creates calculates and visualizes a user's expenses and the related emissions associated with these.
+In short, it is a way to become conscious of how much of an impact on the environment a person has and how behavior changes can help them be more in line with their ecological ambitions. You can see our video presentation of the whole webapp [here](https://youtu.be/Jq64hizPQr4?t=1035).
+
+### [Airbnb clone](https://github.com/Mado13/homework)
+Basic full-stack CRUD web application for renting appartments for specific work space. Made with a team of four developers. Exercise project for LeWagon coding bootcamp.
+
+
 
 
 
